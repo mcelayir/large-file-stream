@@ -26,7 +26,7 @@ two approaches implemented:
 
 ```
 
-You can run `largecsvgenerator.csv` by to create a file of 10G.
+You can run `largecsvgenerator.go` by to create a file of 10G.
 
 <b>WARNING</b> A file named `largefile.csv` must be inside projects root folder.
 
