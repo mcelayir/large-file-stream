@@ -5,8 +5,8 @@ A POC application to read large files with stream processing approach
 
 two approaches implemented:
 
-1- <b>Stream:</b> simple buffering with backpressure and aggregating with akka actors
-2- Seperating reading and processing with kafka 
+- <b>Stream:</b> simple buffering with backpressure and aggregating with akka actors
+- <b>Kafka:</b>Seperating reading and processing with kafka 
 
 ## how to run
 
